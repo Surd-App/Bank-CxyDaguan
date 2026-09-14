@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1787746841380,
+  "chunkSizeBytes": 1048576,
+  "questionBank": {
+    "id": "math:1787739965763",
+    "subjectCode": "math",
+    "name": "数学题库",
+    "snapshotAt": 1787739965763,
+    "importedAt": 1787746841380,
+    "rootCategoryIds": [
+      223,
+      1,
+      601,
+      836,
+      2500
+    ],
+    "status": "ready"
+  },
+  "stats": {
+    "categoryCount": 1018,
+    "questionCount": 5768
+  },
+  "chunks": {
+    "categories": [
+      {
+        "file": "categories/part-0001.json",
+        "count": 1018,
+        "bytes": 115309,
+        "sha256": "151b7a87dd0a56c08a8479754af3e394fb8e7712fea576ff60a12fe23e733598"
+      }
+    ],
+    "questions": [
+      {
+        "file": "questions/part-0001.json",
+        "count": 1125,
+        "bytes": 1047386,
+        "sha256": "33ba6a52f58f1cd65819e80ffad1a724cba9ff02f6c9da8c8729e69b32a42b08"
+      },
+      {
+        "file": "questions/part-0002.json",
+        "count": 879,
+        "bytes": 1048246,
+        "sha256": "08f06f3dfc5447978646685f00a1292a49a451905bac229749ceea43b5e6616a"
+      },
+      {
+        "file": "questions/part-0003.json",
+        "count": 967,
+        "bytes": 1048553,
+        "sha256": "4a7d260de4e2c54b48e2e982a27cc4d921df36b76a42995993dc59a8f2092a18"
+      },
+      {
+        "file": "questions/part-0004.json",
+        "count": 1110,
+        "bytes": 1047333,
+        "sha256": "408f5de509eb4906ee71fa61e278707508bef2ed20465637ed6e876e4e2ae267"
+      },
+      {
+        "file": "questions/part-0005.json",
+        "count": 1318,
+        "bytes": 1048382,
+        "sha256": "a7caa173144d185894027847c4567a394203c2415bd8992f07b2ef3327de770f"
+      },
+      {
+        "file": "questions/part-0006.json",
+        "count": 369,
+        "bytes": 387611,
+        "sha256": "f5b0c3998688fb5f2d2efc4678247d0090918f054ac846b24f16aec39f64c570"
+      }
+    ]
+  }
+}
